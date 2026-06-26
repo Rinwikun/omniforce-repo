@@ -21,7 +21,7 @@
     "name": "netcat",
     "latestVersion": "1.10",
     "size": "120 KB",
-    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/netcat/build.sh"
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packagesnetcat-openbsd/build.sh"
   },
   {
     "name": "traceroute",
@@ -33,6 +33,6 @@
     "name": "curl",
     "latestVersion": "8.7.1",
     "size": "2.1 MB",
-    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/curl/build.sh"
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/libcurl/build.sh"
   }
 ]
