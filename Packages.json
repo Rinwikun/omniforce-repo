@@ -8,7 +8,7 @@
   {
     "name": "nmap",
     "latestVersion": "7.95",
-    "size": "4.2 MB",
-    "downloadUrl": "https://raw.githubusercontent.com/Rinwikun/omniforce-repo/main/bin/nmap"
+    "size": "5.2 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/nmap/build.sh"
   }
 ]
