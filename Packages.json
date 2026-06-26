@@ -6,9 +6,33 @@
     "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/busybox/build.sh"
   },
   {
+    "name": "dnsutils",
+    "latestVersion": "9.19.21",
+    "size": "850 KB",
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/dnsutils/build.sh"
+  },
+  {
     "name": "nmap",
     "latestVersion": "7.95",
     "size": "5.2 MB",
     "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/nmap/build.sh"
+  },
+  {
+    "name": "netcat",
+    "latestVersion": "1.10",
+    "size": "120 KB",
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/netcat/build.sh"
+  },
+  {
+    "name": "traceroute",
+    "latestVersion": "2.1.5",
+    "size": "45 KB",
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/traceroute/build.sh"
+  },
+  {
+    "name": "curl",
+    "latestVersion": "8.7.1",
+    "size": "2.1 MB",
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/curl/build.sh"
   }
 ]
