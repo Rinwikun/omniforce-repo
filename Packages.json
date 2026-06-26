@@ -21,7 +21,7 @@
     "name": "netcat",
     "latestVersion": "1.10",
     "size": "120 KB",
-    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packagesnetcat-openbsd/build.sh"
+    "downloadUrl": "https://raw.githubusercontent.com/termux/termux-packages/master/packages/netcat-openbsd/build.sh"
   },
   {
     "name": "traceroute",
